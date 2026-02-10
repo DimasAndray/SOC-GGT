@@ -13,3 +13,7 @@ segy.shop
 segy2.cc
 dataartnepal.com
 microlambda.blob.core.windows.net
+temp.sh
+transfer.sh
+webhook.site
+loginmicros.cc
