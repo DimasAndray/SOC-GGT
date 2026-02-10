@@ -17,3 +17,5 @@ temp.sh
 transfer.sh
 webhook.site
 loginmicros.cc
+karma0.xyz
+forms.office.com/e/YtRCbHDk14
